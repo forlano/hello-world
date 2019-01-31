@@ -1,2 +1,5 @@
 # hello-world
-Just a trial for a new repository
+
+Hi everybody!
+
+forlano here, I am learning to code since a few months.
